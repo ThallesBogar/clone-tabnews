@@ -1,5 +1,5 @@
 export default Home;
 
 function Home() {
-  return <h1>Teste 3</h1>;
+  return <h1>Samuel ama Java</h1>;
 }
